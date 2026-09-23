@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+media/
+staticfiles/
+.pytest_cache/
+.mypy_cache/
